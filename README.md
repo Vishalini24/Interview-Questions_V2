@@ -1,7 +1,7 @@
 # Interview-Questions_V2
-# a) String compression
-# i) Memory usage and improvements
-# String compression code(First Compressor)
+ **a) String compression**
+ **i) Memory usage and improvements**
+**String compression code(First Compressor)**
 #include<iostream>
 #include <string>
 using namespace std;
